@@ -1,0 +1,23 @@
+{
+  "name": "vue-styleguidist-issue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "vue-styleguidist": "^4.44.22"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pop42/vue-styleguidist-issue.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pop42/vue-styleguidist-issue/issues"
+  },
+  "homepage": "https://github.com/pop42/vue-styleguidist-issue#readme"
+}
